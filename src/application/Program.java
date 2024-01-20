@@ -33,5 +33,7 @@ public class Program {
         System.out.println("Payment after "+ months + " months:");
         System.out.println(String.format("%.2f", si.payment(amount, months)));
 
+        System.out.println("Teste");
+
     }
 }

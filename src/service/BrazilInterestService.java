@@ -13,4 +13,6 @@ public class BrazilInterestService implements InterestService {
         // o método Get depende do valor da váriavel que está armazenada no serviço
         // interfaces nao podem armazenar estado.
     }
+
+
 }
